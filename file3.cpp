@@ -10,5 +10,8 @@ int main(void)
         cin >> arr[i];
     }
     cout << min(1, 2) << endl;
+    cout << max(1, 2) << endl;
+    cout << min(2, 3) << endl;
+
     return 0;
 }
