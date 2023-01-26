@@ -12,6 +12,7 @@ int main(void)
     cout << min(1, 2) << endl;
     cout << max(1, 2) << endl;
     cout << min(2, 3) << endl;
+    cout << "merge: " << endl;
 
     return 0;
 }
