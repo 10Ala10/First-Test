@@ -19,5 +19,6 @@ int main(void)
         cout << arr[i] << " ";
     }
     cout << "\n";
+
     return 0;
 }

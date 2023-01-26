@@ -5,5 +5,7 @@ int main(void)
     ios_base::sync_with_stdio(false);
     cin.tie(0);
     int n = 100u;
-    cout << n;
+    int b;
+    cin >> b;
+    cout << n << " " << b << endl;
 }
