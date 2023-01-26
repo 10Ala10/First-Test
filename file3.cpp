@@ -13,6 +13,6 @@ int main(void)
     cout << max(1, 2) << endl;
     cout << min(2, 3) << endl;
     cout << "merge: " << endl;
-
+    cout << "i understood " << endl;
     return 0;
 }
