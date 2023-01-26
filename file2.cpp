@@ -18,6 +18,6 @@ int main(void)
     {
         cout << arr[i] << " ";
     }
-    cout << endl;
+    cout << "\n";
     return 0;
 }
